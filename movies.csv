@@ -1,0 +1,251 @@
+﻿movie_id,title,genre,ratings
+1,Nuvve Kavali,Romance|Drama,8
+2,Badri,Action|Romance,7.2
+3,Kushi,Romance|Drama,8.1
+4,Nuvvu Naaku Nachav,Romance|Comedy,8.8
+5,Manmadhudu,Romance|Comedy,8.3
+6,Okkadu,Action|Drama,8
+7,Varsham,Action|Romance,7.8
+8,Arya,Romance|Drama,7.8
+9,Anand,Drama|Romance,8
+10,Chatrapathi,Action|Drama,7.6
+11,Pokiri,Action|Crime,8
+12,Bommarillu,Family|Romance,8.2
+13,Happy Days,Drama,7.9
+14,Desamuduru,Action|Romance,7.1
+15,Yamadonga,Fantasy|Comedy,7.5
+16,Jalsa,Action|Comedy,7.9
+17,Parugu,Romance|Drama,7.4
+18,Kick,Action|Comedy,7.9
+19,Magadheera,Action|Fantasy,8.1
+20,Leader,Political|Drama,8
+21,Ye Maaya Chesave,Romance|Drama,7.7
+22,Maryada Ramanna,Comedy|Drama,8.1
+23,Vedam,Drama,8.2
+24,Brindavanam,Family|Drama,7.7
+25,Mr. Perfect,Romance|Family,7.5
+26,Dookudu,Action|Comedy,7.8
+27,Businessman,Action|Crime,7.4
+28,Eega,Fantasy|Drama,7.7
+29,Gabbar Singh,Action|Comedy,7.8
+30,Julayi,Action|Comedy,7.6
+31,Seethamma Vakitlo Sirimalle Chettu,Family|Drama,7.8
+32,Attarintiki Daredi,Family|Comedy,7.7
+33,Race Gurram,Action|Comedy,7.8
+34,Manam,Drama|Fantasy,8
+35,Run Raja Run,Comedy|Thriller,7.5
+36,Oohalu Gusagusalade,Romance|Comedy,7.6
+37,Temper,Action|Crime,7.5
+38,Srimanthudu,Drama,7.6
+39,Bhale Bhale Magadivoy,Comedy|Romance,7.8
+40,Kshanam,Thriller|Mystery,8.2
+41,Nannaku Prematho,Action|Thriller,7.7
+42,Oopiri,Drama,8
+43,Pellichoopulu,Romance|Comedy,8.2
+44,Dhruva,Action|Thriller,7.8
+45,Gautamiputra Satakarni,Historical|Action,7.4
+46,Fidaa,Romance|Drama,7.4
+47,Arjun Reddy,Romance|Drama,7.9
+48,Mahanati,Biography|Drama,8.4
+49,Rangasthalam,Drama|Action,8.2
+50,Geetha Govindam,Romance|Comedy,7.8
+51,Jersey,Sports|Drama,8.5
+52,Majili,Romance|Drama,7.7
+53,Brochevarevarura,Crime|Comedy,8
+54,Oh Baby,Fantasy|Comedy,7.3
+55,Agent Sai Srinivasa Athreya,Mystery|Comedy,8.3
+56,Ala Vaikunthapurramuloo,Family|Comedy,7.3
+57,Sarileru Neekevvaru,Action|Comedy,5.8
+58,Bheeshma,Romance|Comedy,6.6
+59,Vakeel Saab,Drama|Action,7
+60,Jathi Ratnalu,Comedy,7.3
+61,Uppena,Romance|Drama,6.7
+62,Love Story,Romance|Drama,6.8
+63,Akhanda,Action,6.8
+64,Shyam Singha Roy,Drama|Fantasy,7.6
+65,Pushpa: The Rise,Action|Crime,7.9
+66,RRR,Action|Drama,7.8
+67,Major,Biography|Action,8.1
+68,Sita Ramam,Romance|Drama,8.5
+69,Bimbisara,Fantasy|Action,6.7
+70,Karthikeya 2,Mystery|Adventure,7.9
+71,HIT: The Second Case,Crime|Thriller,7.1
+72,Dasara,Action|Drama,6.8
+73,Virupaksha,Mystery|Thriller,7.2
+74,Balagam,Drama,8
+75,Baby,Romance|Drama,6.6
+76,Hi Nanna,Romance|Drama,8.3
+77,Salaar,Action|Thriller,6.7
+78,HanuMan,Superhero|Fantasy,8
+79,Tillu Square,Comedy,7
+80,Gaami,Adventure|Drama,6.4
+81,Family Star,Family|Drama,7.7
+82,Kalki 2898 AD,Science Fiction|Action,7
+83,Mathu Vadalara,Crime|Comedy,7.2
+84,Mathu Vadalara 2,Crime|Comedy,6.5
+85,Raja Raja Chora,Comedy|Crime,7.8
+86,Colour Photo,Romance|Drama,8.1
+87,Middle Class Melodies,Comedy|Drama,7.4
+88,Cinema Bandi,Comedy|Drama,8
+89,Care of Kancharapalem,Drama,7.8
+90,Ee Nagaraniki Emaindhi,Comedy|Drama,7.3
+91,Krishna and His Leela,Romance|Drama,7.2
+92,Sammohanam,Romance|Drama,7.3
+93,Chi La Sow,Romance|Comedy,7.7
+94,Goodachari,Spy|Thriller,7.5
+95,Karthikeya,Mystery|Adventure,7.8
+96,HIT: The First Case,Crime|Thriller,7.6
+97,MAD,Comedy,7.9
+98,Lucky Baskhar,Crime|Drama,7.5
+99,Committee Kurrollu,Drama,8
+100,Robinhood,Action|Comedy,7.6
+101,Aadavari Matalaku Ardhalu Verule,Romance| Comedy,7.8
+102,Bheeshma,               Drama,7.8
+103,Ammoru,Thriller,7.5
+104,Amma Nanna O Tamila Ammayi,Fantasy|Drama,7.2
+105,Andala Rakshasi,Sports|Drama,7.8
+106,Anukokunda Oka Roju,Romance|Drama,7.9
+107,Ashta Chamma,Thriller|Drama,7.4
+108,Baanam,Comedy|Drama,8
+109,Baadshah,Action|Drama,7.6
+110,Bhale Manchi Roju,Action|Comedy,6.4
+111,Bindaas,Thriller|Comedy,7.1
+112,Brahmotsavam,Comedy|Romance,6.8
+113,Bujjigadu,Family|Drama,4.8
+114,Chakram,Action|Romance,7.1
+115,Chalo,Drama,7.8
+116,Chandamama,Romance|Comedy,7.2
+117,Cinema Choopistha Mava,Romance|Drama,7.1
+118,Current,Comedy|Drama,6.5
+119,Darling,Action|Drama,6.6
+120,Devadas,Romance|Comedy,7.4
+121,Dongala Mutha,Action|Comedy,5.7
+122,Ekkadiki Pothavu Chinnavada,Crime|Thriller,6.6
+123,Ek Niranjan,Mystery|Thriller,7.6
+124,Gamyam,Action|Drama,5.3
+125,Gang Leader,Adventure|Drama,8.4
+126,Gentleman,Action|Comedy,7.1
+127,Gharana Bullodu,Drama|Thriller,7.4
+128,Gopi Gopika Godavari,Action|Drama,6.5
+129,Gudumba Shankar,Romance|Drama,6.8
+130,Hello Brother,Action|Comedy,5.7
+131,Hello Guru Prema Kosame,Comedy|Drama,7.4
+132,Ishq,Romance|Comedy,7.2
+133,Itlu Sravani Subramanyam,Romance|Drama,7.3
+134,Jagadam,Romance|Drama,7.8
+135,Jayam,Action|Drama,7.4
+136,Jayam Manadera,Romance|Drama,7.1
+137,Kanche,Action|Drama,6
+138,Kantri,Historical|Drama,8.2
+139,Kerintha,Action|Drama,5.1
+140,King,Comedy|Drama,7.8
+141,Krack,Comedy|Drama,6.3
+142,Krishna,Action|Crime,8
+143,Lakshmi,Action|Comedy,5.8
+144,Loukyam,Action|Drama,5.8
+145,Malliswari,Comedy|Romance,7.2
+146,Maro Charitra,Family|Comedy,7.1
+147,Mental Madhilo,Romance|Drama,7.8
+148,Naandhi,Romance|Comedy,7.2
+149,Neninthe,Crime|Drama,8
+150,Nenu Local,Drama,7.8
+151,Ninne Pelladatha,Comedy|Romance,6.4
+152,Nuvve Nuvve,Family|Romance,8.3
+153,Nuvvostanante Nenoddantana,Romance|Drama,8.1
+154,Ok Bangaram,Romance|Drama,7.8
+155,Orange,Romance|Drama,7.8
+156,Padi Padi Leche Manasu,Romance|Drama,6.6
+157,Pandaga Chesko,Action|Comedy,5.5
+158,Prasthanam,Political|Drama,8.2
+159,Radha Gopalam,Family|Drama,7.8
+160,Raksha,Horror|Thriller,5.6
+161,Ready,Comedy|Romance,7.4
+162,Sahasam,Adventure|Thriller,7.1
+163,Sammathame,Romance|Drama,7.3
+164,Sankranthi,Family|Drama,7
+165,Shankar Dada MBBS,Comedy|Drama,6
+166,Shatamanam Bhavati,Family|Drama,7.5
+167,Simhadri,Action|Comedy,7.7
+168,Soggade Chinni Nayana,Family|Drama,7
+169,Solo,Action|Drama,7.7
+170,Son of Satyamurthy,Family|Drama,7.4
+171,Subramanyam For Sale,Comedy|Drama,7
+172,Swamy Ra Ra,Crime|Comedy,7.9
+173,Tagore,Action|Drama,8.1
+174,Takkari Donga,Western|Action,6.6
+175,Thammudu,Action|Drama,7.8
+176,The Family Man,Action|Drama,5.8
+177,Tholiprema,Romance|Drama,7.2
+178,Tulasi,Action|Drama,7.4
+179,Vasantham,Comedy|Drama,7
+180,Venky,Action|Drama,7.7
+181,Vikramarkudu,Action|Comedy,7.8
+182,Villain,Action|Drama,6.9
+183,Yagnam,Action|Drama,7.1
+184,Yevade Subramanyam,Drama,8
+185,Yogi,Action|Drama,6.1
+186,Yuvasena,Comedy|Drama,7.8
+187,100% Love,Romance|Drama,7.7
+188,Awe,Romance|Comedy,7.5
+189,Bheemla Nayak,Drama|Fantasy,7.6
+190,DJ Tillu,Action|Drama,8.1
+191,Mallesham,Biography|Drama,6.8
+192,Miss Shetty Mr Polishetty,Romance|Comedy,7
+193,Oke Oka Jeevitham,Science Fiction|Drama,7.8
+194,Republic,Political|Drama,7.8
+195,Skylab,Science Fiction|Drama,8
+196,Writer Padmabhushan,Comedy|Drama,7.8
+197,Spyder,Action|Thriller,6.6
+198,Kalki,Crime|Thriller,7.9
+199,Anukshanam,Crime|Thriller,7
+200,Avunu,Horror,6.8
+201,Avunu 2,Horror,6.3
+202,Bhale Dongalu,Comedy|Drama,5.8
+203,Billa,Action|Thriller,6.1
+204,Brahmamgaru,Drama,4.7
+205,Chirutha,Action|Romance,5.5
+206,Current Theega,Action|Comedy,5.7
+207,Damarukam,Fantasy|Action,6.2
+208,Ee Rojullo,Romance|Comedy,7.2
+209,Guntur Kaaram,Action|Drama,5.8
+210,Hari Hara Veera Mallu,Historical|Action,7
+211,I Smart Shankar,Action|Drama,7.6
+212,Kedi,Action|Thriller,5.1
+213,Krishnam Vande Jagadgurum,Drama|Fantasy,7.9
+214,Malli Raava,Romance|Drama,8
+215,Mosagallu,Crime|Drama,4.5
+216,Naa Peru Surya Naa Illu India,Action|Drama,6.7
+217,Operation Gold Fish,War|Thriller,6.6
+218,Panjaa,Action|Thriller,7.3
+219,Pilla Zamindar,Comedy|Drama,7.2
+220,Raja The Great,Comedy|Action,7.9
+221,Rudhramadevi,Historical|Drama,7.4
+222,Shakti,Fantasy|Action,3.5
+223,Tuck Jagadish,Family|Drama,5.7
+224,Uyyala Jampala,Romance|Comedy,7.8
+225,V,Action|Thriller,6.8
+226,Waltair Veerayya,Action|Comedy,6.2
+227,Yatra,Biography|Drama,8
+228,Zombie Reddy,Comedy|Horror,7.4
+229,Mangalavaaram,Crime|Thriller,7.2
+230,Kalki 2898 AD,Science Fiction|Action,7.1
+231,MAD Square,Comedy,7.3
+232,35 Chinna Katha Kaadu,Drama,8.1
+233,Ambajipeta Marriage Band,Drama,7.9
+234,Om Bheem Bush,Comedy|Fantasy,6.9
+235,Gaami,Adventure|Drama,8
+236,Tandel,Romance|Action,7.4
+237,Bhadra,Action|Drama,7.8
+238,Nenunnanu,Drama|Romance,7
+239,Lakshyam,Action|Family,7.7
+240,Konchem Ishtam Konchem Kashtam,Romance|Family,7.2
+241,Prayanam,Romance|Drama,7
+242,Golkonda High School,Sports|Drama,7.5
+243,Panjaa,Action|Thriller,7.3
+244,Mithunam,Drama,8.4
+245,Prema Katha Chitram,Horror|Comedy,7.2
+246,Uyyala Jampala,Romance|Comedy,7.8
+247,Kumari 21F,Romance|Drama,7.8
+248,Express Raja,Comedy|Romance,7.3
+249,Nenu Sailaja,Romance|Drama,7.6
+250,Appatlo Okadundevadu,Crime|Drama,7.9
